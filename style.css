@@ -69,8 +69,8 @@ body {
 .hr:before {
     content: "";
     position: absolute;
-    width: 8px;
-    height: 8px;
+    width: 4px;
+    height: 72px;
     background-color: #ffb510;
     z-index: 9;
     border-radius: 6px 6px 0 0;
